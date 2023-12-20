@@ -5,6 +5,7 @@ Section 1
     Line 3
 	Line 4
 some codes from main branch
+some codes from dev branch
 Section 2
     Line 1
     Line 2
